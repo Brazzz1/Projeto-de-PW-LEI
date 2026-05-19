@@ -1,6 +1,6 @@
 # Projeto-de-PW-LEI
 Trabalho do Rúben Novo e Simão Braz.
-https://github.com/Brazzz1/Projeto-de-PW-LEI.git
+[R.E.P.O. - Improve Your Game] https://brazzz1.github.io/Projeto-de-PW-LEI/
 
 O projeto R.E.P.O. é um jogo em que é preciso recuperar e extrair recursos em lugares perigosos. Irás explorar, gerir riscos e tomar decisões em tempo real. A tua missão é entrar em zonas de alto risco para recolher itens valiosos, mas com limitações como tempo limitado, capacidade de transporte e ameaças inesperadas.
 
